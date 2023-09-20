@@ -1,5 +1,5 @@
 # 👋 About Me: 
-Hi,I'm Semih. 20 years old student
+Hi,I'm Semih. Just 20 years old student. I am a Computer Engineering student in Turkey
 
 # 💫 My Interests:
 Cyber Security <br>
