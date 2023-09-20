@@ -1,17 +1,17 @@
 # 👋 About Me: 
-Hi,I'm Semih. Just 20 years old student. I am a Computer Engineering student in Turkey
+Hi,I'm Semih. Just 20 years old student. I am a Computer Engineering student in Turkey ❤️
 
 # 💫 My Interests:
-Cyber Security <br>
-Software Development <br>
-Game Development <br>
-physics | chemistry | biology | philosophy and math
+👨‍💻Cyber Security  <br>
+💻Software Development  <br>
+🎮Game Development  <br>
+⚛physics | chemistry | biology | philosophy and math 
 
 # Want To Learn:
-Reverse Enginerring Basics <br>
-IoT Hacking Basics <br>
-Microchip programming Basics <br>
-Gain C/C++ experience
+🔄Reverse Enginerring Basics <br>
+🌐IoT Hacking Basics <br>
+𓇲Microchip programming Basics <br>
+💪Gain C/C++ experience
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCCd76TuOnWuaIhDRtAObAVA) 
