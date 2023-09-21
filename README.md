@@ -1,13 +1,13 @@
 <a href="https://github.com/zyr1on"><img src="https://readme-typing-svg.demolab.com?font=SF+Mono&duration=2500&pause=700&color=31F700&width=600&lines=Welcome.+I'm+semih;I+am+a+Computer+Engineering+student+in+Turkey+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 </p>
 
-# 💫 My Interests:
+# 💫 My Interests
 👨‍💻Cyber Security  <br>
 💻Software Development  <br>
 🎮Game Development  <br>
 ⚛physics | chemistry | biology | philosophy and math 
 
-# Want To Learn:
+# Want To Learn
 🔄Reverse Enginerring Basics <br>
 🌐IoT Hacking Basics <br>
 𓇲Microchip programming Basics <br>
