@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Mono&duration=3000&pause=800&color=31F700&width=435&lines=Welcome.+I'm+semih;Just+20+years+old+student.;I+am+a+Computer+Engineering+student+in+Turkey+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Mono&duration=3000&pause=800&color=31F700&width=600&lines=Welcome.+I'm+semih;Just+20+years+old+student.;I+am+a+Computer+Engineering+student+in+Turkey+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 # 💫 My Interests:
 👨‍💻Cyber Security  <br>
