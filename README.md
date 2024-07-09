@@ -19,4 +19,4 @@
 <img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg"
      width="75" 
      height="75" />
-<img src="https://tryhackme-badges.s3.amazonaws.com/zyr1on.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/zyr1on.png" alt="TryHackMe"> 
