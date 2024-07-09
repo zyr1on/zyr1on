@@ -20,3 +20,5 @@
      width="75" 
      height="75" />
 <img src="https://tryhackme-badges.s3.amazonaws.com/zyr1on.png" alt="TryHackMe">
+
+<script src="https://tryhackme.com/badge/64666"></script>
