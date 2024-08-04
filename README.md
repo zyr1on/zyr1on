@@ -2,7 +2,7 @@
 </p>
 
 # 💫 My Interests
-👨‍💻Cyber Security  <br>
+👨‍💻Cyber Security(main)  <br>
 💻Software Development  <br>
 🎮Game Development  <br>
 ⚛physics | chemistry | biology | philosophy and math 
