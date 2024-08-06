@@ -3,5 +3,5 @@
 I have been dealing with cyber security and software development for a long time. <br>
 I continue to gain experience with pentesting and C++.<br>
 I am also interested in embedded systems, IoT hacking, gaming and graphic programming.<br>
-And I love anything involving math and philosophy.
+And I love anything involving math and philosophy.<br>
 <img src="https://tryhackme-badges.s3.amazonaws.com/zyr1on.png">
