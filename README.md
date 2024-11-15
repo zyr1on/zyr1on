@@ -6,4 +6,8 @@ I am also interested in embedded systems, IoT hacking, gaming and graphic progra
 And I love anything involving math and philosophy.
 ```
 <br>
+
+TODO:
+rewrite linux/http/elfinder_archive_cmd_injection as python.
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/zyr1on.png">
