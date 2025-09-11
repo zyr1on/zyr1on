@@ -8,6 +8,9 @@ And I love anything involving math and philosophy.
 <br>
 
 TODO:
-rewrite linux/http/elfinder_archive_cmd_injection as python.
+OpenGL 3D Object Renderer with imGui (c++)
+Notepad with encryption and decryption functions with wxWidgets library (c++)
+rewrite linux/http/elfinder_archive_cmd_injection as python (python)
+
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/zyr1on.png">
