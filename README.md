@@ -5,30 +5,3 @@ I want to gain experience with pentesting and C++.
 I am also interested in embedded systems, IoT hacking, gaming and graphic programming.
 And I love anything involving math and philosophy.
 ```
-
-<br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/zyr1on.png">
-
-#### TODO List
-
-##### 1. OpenGL 3D Object Renderer with ImGui (C++)
-
-**Description**:  
-OpenGL renderer to load and display 3D objects with camera movement and mouse rotation. Use ImGui for UI.
-
-
----
-
-##### 2. Notepad with Encryption and Decryption (wxWidgets, C++)
-
-**Description**:  
-Create a notepad with encryption (AES, XOR) using wxWidgets.
-
----
-
-##### 3. Rewrite `elfinder_archive_cmd_injection` in Python
-
-**Description**:  
-Rewrite the `elfinder_archive_cmd_injection` exploit from Linux to Python.
-
----
